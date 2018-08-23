@@ -1,0 +1,62 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.button{
+	-fx-background-repeat: no-repeat ;
+	-fx-background-position: center ;
+	-fx-background-size: 20.0 20.0;
+	-fx-alignment: center ;
+	-fx-background-color: transparent ;
+	
+}
+.tooltip{
+   -fx-background-color:#F25458;
+   -fx-color:white;
+   -fx-font-size: 16px;
+   -fx-font-weight: normal;
+   
+   }
+
+#add{
+	-fx-background-image: url("/icon/add.png");
+}
+
+
+#fast{
+	-fx-background-image: url("/icon/fast.png");
+	
+	
+}
+#slow{
+	-fx-background-image: url("/icon/slow.png");
+	
+	
+}
+
+#mute{
+	-fx-background-image: url("/icon/mute.png");
+	
+	
+}
+#pause{
+	-fx-background-image: url("/icon/pause.png");
+	
+	
+}
+#play{
+	-fx-background-image: url("/icon/play.png");
+	
+	
+}
+#reload{
+	-fx-background-image: url("/icon/reload.png");
+		
+}
+
+
+.slider .thumb{
+-fx-background-color: black;
+}
+.parent{
+-fx-background-color: red;
+		
+}
+.k{}
